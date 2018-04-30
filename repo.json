@@ -2,6 +2,7 @@
   "name": "Google Fonts Repository",
   "source": "https://raw.githubusercontent.com/jamesssooi/fonty-gfonts-repo/master/repo.json",
   "lastModified": "2017-06-16T07:54:22.365831",
+  "schema_identifier": "fonty_json_schema_v1",
   "typefaces": [
     {
       "name": "ABeeZee",
