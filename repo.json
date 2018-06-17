@@ -1,12 +1,13 @@
 {
   "name": "Google Fonts Repository",
   "source": "https://raw.githubusercontent.com/jamesssooi/fonty-gfonts-repo/master/repo.json",
-  "lastModified": "2017-06-16T07:54:22.365831",
+  "last_modified": "2017-06-16T07:54:22.365831",
   "schema_identifier": "fonty_json_schema_v1",
+  "public": true,
   "typefaces": [
     {
       "name": "ABeeZee",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v10",
       "category": "sans-serif",
       "fonts": {
@@ -22,7 +23,7 @@
     },
     {
       "name": "Abel",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -34,7 +35,7 @@
     },
     {
       "name": "Abhaya Libre",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -62,7 +63,7 @@
     },
     {
       "name": "Abril Fatface",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -74,7 +75,7 @@
     },
     {
       "name": "Aclonica",
-      "lastModified": "2017-05-02",
+      "last_modified": "2017-05-02",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -86,7 +87,7 @@
     },
     {
       "name": "Acme",
-      "lastModified": "2017-05-02",
+      "last_modified": "2017-05-02",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -98,7 +99,7 @@
     },
     {
       "name": "Actor",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -110,7 +111,7 @@
     },
     {
       "name": "Adamina",
-      "lastModified": "2017-05-02",
+      "last_modified": "2017-05-02",
       "version": "v9",
       "category": "serif",
       "fonts": {
@@ -122,7 +123,7 @@
     },
     {
       "name": "Advent Pro",
-      "lastModified": "2017-05-02",
+      "last_modified": "2017-05-02",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -158,7 +159,7 @@
     },
     {
       "name": "Aguafina Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -170,7 +171,7 @@
     },
     {
       "name": "Akronim",
-      "lastModified": "2017-05-02",
+      "last_modified": "2017-05-02",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -182,7 +183,7 @@
     },
     {
       "name": "Aladin",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -194,7 +195,7 @@
     },
     {
       "name": "Aldrich",
-      "lastModified": "2017-05-02",
+      "last_modified": "2017-05-02",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -206,7 +207,7 @@
     },
     {
       "name": "Alef",
-      "lastModified": "2017-05-02",
+      "last_modified": "2017-05-02",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -222,7 +223,7 @@
     },
     {
       "name": "Alegreya",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -254,7 +255,7 @@
     },
     {
       "name": "Alegreya SC",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -286,7 +287,7 @@
     },
     {
       "name": "Alegreya Sans",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -350,7 +351,7 @@
     },
     {
       "name": "Alegreya Sans SC",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -414,7 +415,7 @@
     },
     {
       "name": "Alex Brush",
-      "lastModified": "2017-05-02",
+      "last_modified": "2017-05-02",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -426,7 +427,7 @@
     },
     {
       "name": "Alfa Slab One",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -438,7 +439,7 @@
     },
     {
       "name": "Alice",
-      "lastModified": "2017-01-19",
+      "last_modified": "2017-01-19",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -450,7 +451,7 @@
     },
     {
       "name": "Alike",
-      "lastModified": "2017-05-02",
+      "last_modified": "2017-05-02",
       "version": "v9",
       "category": "serif",
       "fonts": {
@@ -462,7 +463,7 @@
     },
     {
       "name": "Alike Angular",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -474,7 +475,7 @@
     },
     {
       "name": "Allan",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -490,7 +491,7 @@
     },
     {
       "name": "Allerta",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -502,7 +503,7 @@
     },
     {
       "name": "Allerta Stencil",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -514,7 +515,7 @@
     },
     {
       "name": "Allura",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -526,7 +527,7 @@
     },
     {
       "name": "Almendra",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -550,7 +551,7 @@
     },
     {
       "name": "Almendra Display",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -562,7 +563,7 @@
     },
     {
       "name": "Almendra SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -574,7 +575,7 @@
     },
     {
       "name": "Amarante",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -586,7 +587,7 @@
     },
     {
       "name": "Amaranth",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -610,7 +611,7 @@
     },
     {
       "name": "Amatic SC",
-      "lastModified": "2017-01-20",
+      "last_modified": "2017-01-20",
       "version": "v9",
       "category": "handwriting",
       "fonts": {
@@ -626,7 +627,7 @@
     },
     {
       "name": "Amatica SC",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -642,7 +643,7 @@
     },
     {
       "name": "Amethysta",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -654,7 +655,7 @@
     },
     {
       "name": "Amiko",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -674,7 +675,7 @@
     },
     {
       "name": "Amiri",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -698,7 +699,7 @@
     },
     {
       "name": "Amita",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "handwriting",
       "fonts": {
@@ -714,7 +715,7 @@
     },
     {
       "name": "Anaheim",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -726,7 +727,7 @@
     },
     {
       "name": "Andada",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -738,7 +739,7 @@
     },
     {
       "name": "Andika",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -750,7 +751,7 @@
     },
     {
       "name": "Angkor",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -762,7 +763,7 @@
     },
     {
       "name": "Annie Use Your Telescope",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -774,7 +775,7 @@
     },
     {
       "name": "Anonymous Pro",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v9",
       "category": "monospace",
       "fonts": {
@@ -798,7 +799,7 @@
     },
     {
       "name": "Antic",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -810,7 +811,7 @@
     },
     {
       "name": "Antic Didone",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -822,7 +823,7 @@
     },
     {
       "name": "Antic Slab",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -834,7 +835,7 @@
     },
     {
       "name": "Anton",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -846,7 +847,7 @@
     },
     {
       "name": "Arapey",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -862,7 +863,7 @@
     },
     {
       "name": "Arbutus",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -874,7 +875,7 @@
     },
     {
       "name": "Arbutus Slab",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -886,7 +887,7 @@
     },
     {
       "name": "Architects Daughter",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -898,7 +899,7 @@
     },
     {
       "name": "Archivo Black",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -910,7 +911,7 @@
     },
     {
       "name": "Archivo Narrow",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -934,7 +935,7 @@
     },
     {
       "name": "Aref Ruqaa",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -950,7 +951,7 @@
     },
     {
       "name": "Arima Madurai",
-      "lastModified": "2016-08-22",
+      "last_modified": "2016-08-22",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -990,7 +991,7 @@
     },
     {
       "name": "Arimo",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v9",
       "category": "sans-serif",
       "fonts": {
@@ -1014,7 +1015,7 @@
     },
     {
       "name": "Arizonia",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -1026,7 +1027,7 @@
     },
     {
       "name": "Armata",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -1038,7 +1039,7 @@
     },
     {
       "name": "Arsenal",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -1062,7 +1063,7 @@
     },
     {
       "name": "Artifika",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -1074,7 +1075,7 @@
     },
     {
       "name": "Arvo",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v9",
       "category": "serif",
       "fonts": {
@@ -1098,7 +1099,7 @@
     },
     {
       "name": "Arya",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -1114,7 +1115,7 @@
     },
     {
       "name": "Asap",
-      "lastModified": "2016-12-08",
+      "last_modified": "2016-12-08",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -1146,7 +1147,7 @@
     },
     {
       "name": "Asar",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -1158,7 +1159,7 @@
     },
     {
       "name": "Asset",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -1170,7 +1171,7 @@
     },
     {
       "name": "Assistant",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -1202,7 +1203,7 @@
     },
     {
       "name": "Astloch",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -1218,7 +1219,7 @@
     },
     {
       "name": "Asul",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -1234,7 +1235,7 @@
     },
     {
       "name": "Athiti",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -1266,7 +1267,7 @@
     },
     {
       "name": "Atma",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -1294,7 +1295,7 @@
     },
     {
       "name": "Atomic Age",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -1306,7 +1307,7 @@
     },
     {
       "name": "Aubrey",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -1318,7 +1319,7 @@
     },
     {
       "name": "Audiowide",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -1330,7 +1331,7 @@
     },
     {
       "name": "Autour One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -1342,7 +1343,7 @@
     },
     {
       "name": "Average",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -1354,7 +1355,7 @@
     },
     {
       "name": "Average Sans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -1366,7 +1367,7 @@
     },
     {
       "name": "Averia Gruesa Libre",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -1378,7 +1379,7 @@
     },
     {
       "name": "Averia Libre",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -1410,7 +1411,7 @@
     },
     {
       "name": "Averia Sans Libre",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -1442,7 +1443,7 @@
     },
     {
       "name": "Averia Serif Libre",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -1474,7 +1475,7 @@
     },
     {
       "name": "Bad Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -1486,7 +1487,7 @@
     },
     {
       "name": "Bahiana",
-      "lastModified": "2017-01-26",
+      "last_modified": "2017-01-26",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -1498,7 +1499,7 @@
     },
     {
       "name": "Baloo",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -1510,7 +1511,7 @@
     },
     {
       "name": "Baloo Bhai",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -1522,7 +1523,7 @@
     },
     {
       "name": "Baloo Bhaina",
-      "lastModified": "2016-08-19",
+      "last_modified": "2016-08-19",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -1534,7 +1535,7 @@
     },
     {
       "name": "Baloo Chettan",
-      "lastModified": "2016-08-19",
+      "last_modified": "2016-08-19",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -1546,7 +1547,7 @@
     },
     {
       "name": "Baloo Da",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -1558,7 +1559,7 @@
     },
     {
       "name": "Baloo Paaji",
-      "lastModified": "2016-08-19",
+      "last_modified": "2016-08-19",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -1570,7 +1571,7 @@
     },
     {
       "name": "Baloo Tamma",
-      "lastModified": "2016-08-19",
+      "last_modified": "2016-08-19",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -1582,7 +1583,7 @@
     },
     {
       "name": "Baloo Thambi",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -1594,7 +1595,7 @@
     },
     {
       "name": "Balthazar",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -1606,7 +1607,7 @@
     },
     {
       "name": "Bangers",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -1618,7 +1619,7 @@
     },
     {
       "name": "Barrio",
-      "lastModified": "2017-01-26",
+      "last_modified": "2017-01-26",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -1630,7 +1631,7 @@
     },
     {
       "name": "Basic",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -1642,7 +1643,7 @@
     },
     {
       "name": "Battambang",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -1658,7 +1659,7 @@
     },
     {
       "name": "Baumans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -1670,7 +1671,7 @@
     },
     {
       "name": "Bayon",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -1682,7 +1683,7 @@
     },
     {
       "name": "Belgrano",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -1694,7 +1695,7 @@
     },
     {
       "name": "Belleza",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -1706,7 +1707,7 @@
     },
     {
       "name": "BenchNine",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -1726,7 +1727,7 @@
     },
     {
       "name": "Bentham",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -1738,7 +1739,7 @@
     },
     {
       "name": "Berkshire Swash",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -1750,7 +1751,7 @@
     },
     {
       "name": "Bevan",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -1762,7 +1763,7 @@
     },
     {
       "name": "Bigelow Rules",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -1774,7 +1775,7 @@
     },
     {
       "name": "Bigshot One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -1786,7 +1787,7 @@
     },
     {
       "name": "Bilbo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -1798,7 +1799,7 @@
     },
     {
       "name": "Bilbo Swash Caps",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -1810,7 +1811,7 @@
     },
     {
       "name": "BioRhyme",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -1838,7 +1839,7 @@
     },
     {
       "name": "BioRhyme Expanded",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -1866,7 +1867,7 @@
     },
     {
       "name": "Biryani",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -1902,7 +1903,7 @@
     },
     {
       "name": "Bitter",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v10",
       "category": "serif",
       "fonts": {
@@ -1922,7 +1923,7 @@
     },
     {
       "name": "Black Ops One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -1934,7 +1935,7 @@
     },
     {
       "name": "Bokor",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -1946,7 +1947,7 @@
     },
     {
       "name": "Bonbon",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -1958,7 +1959,7 @@
     },
     {
       "name": "Boogaloo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -1970,7 +1971,7 @@
     },
     {
       "name": "Bowlby One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -1982,7 +1983,7 @@
     },
     {
       "name": "Bowlby One SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -1994,7 +1995,7 @@
     },
     {
       "name": "Brawler",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -2006,7 +2007,7 @@
     },
     {
       "name": "Bree Serif",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -2018,7 +2019,7 @@
     },
     {
       "name": "Bubblegum Sans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -2030,7 +2031,7 @@
     },
     {
       "name": "Bubbler One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -2042,7 +2043,7 @@
     },
     {
       "name": "Buda",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -2054,7 +2055,7 @@
     },
     {
       "name": "Buenard",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -2070,7 +2071,7 @@
     },
     {
       "name": "Bungee",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -2082,7 +2083,7 @@
     },
     {
       "name": "Bungee Hairline",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -2094,7 +2095,7 @@
     },
     {
       "name": "Bungee Inline",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -2106,7 +2107,7 @@
     },
     {
       "name": "Bungee Outline",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -2118,7 +2119,7 @@
     },
     {
       "name": "Bungee Shade",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -2130,7 +2131,7 @@
     },
     {
       "name": "Butcherman",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -2142,7 +2143,7 @@
     },
     {
       "name": "Butterfly Kids",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -2154,7 +2155,7 @@
     },
     {
       "name": "Cabin",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v11",
       "category": "sans-serif",
       "fonts": {
@@ -2194,7 +2195,7 @@
     },
     {
       "name": "Cabin Condensed",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v10",
       "category": "sans-serif",
       "fonts": {
@@ -2218,7 +2219,7 @@
     },
     {
       "name": "Cabin Sketch",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v10",
       "category": "display",
       "fonts": {
@@ -2234,7 +2235,7 @@
     },
     {
       "name": "Caesar Dressing",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -2246,7 +2247,7 @@
     },
     {
       "name": "Cagliostro",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -2258,7 +2259,7 @@
     },
     {
       "name": "Cairo",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -2290,7 +2291,7 @@
     },
     {
       "name": "Calligraffitti",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -2302,7 +2303,7 @@
     },
     {
       "name": "Cambay",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -2326,7 +2327,7 @@
     },
     {
       "name": "Cambo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -2338,7 +2339,7 @@
     },
     {
       "name": "Candal",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -2350,7 +2351,7 @@
     },
     {
       "name": "Cantarell",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -2374,7 +2375,7 @@
     },
     {
       "name": "Cantata One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -2386,7 +2387,7 @@
     },
     {
       "name": "Cantora One",
-      "lastModified": "2017-03-29",
+      "last_modified": "2017-03-29",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -2398,7 +2399,7 @@
     },
     {
       "name": "Capriola",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -2410,7 +2411,7 @@
     },
     {
       "name": "Cardo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -2430,7 +2431,7 @@
     },
     {
       "name": "Carme",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -2442,7 +2443,7 @@
     },
     {
       "name": "Carrois Gothic",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -2454,7 +2455,7 @@
     },
     {
       "name": "Carrois Gothic SC",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -2466,7 +2467,7 @@
     },
     {
       "name": "Carter One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -2478,7 +2479,7 @@
     },
     {
       "name": "Catamaran",
-      "lastModified": "2017-03-29",
+      "last_modified": "2017-03-29",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -2522,7 +2523,7 @@
     },
     {
       "name": "Caudex",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -2546,7 +2547,7 @@
     },
     {
       "name": "Caveat",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v2",
       "category": "handwriting",
       "fonts": {
@@ -2562,7 +2563,7 @@
     },
     {
       "name": "Caveat Brush",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v2",
       "category": "handwriting",
       "fonts": {
@@ -2574,7 +2575,7 @@
     },
     {
       "name": "Cedarville Cursive",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -2586,7 +2587,7 @@
     },
     {
       "name": "Ceviche One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -2598,7 +2599,7 @@
     },
     {
       "name": "Changa",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -2634,7 +2635,7 @@
     },
     {
       "name": "Changa One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -2650,7 +2651,7 @@
     },
     {
       "name": "Chango",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -2662,7 +2663,7 @@
     },
     {
       "name": "Chathura",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -2690,7 +2691,7 @@
     },
     {
       "name": "Chau Philomene One",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -2706,7 +2707,7 @@
     },
     {
       "name": "Chela One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -2718,7 +2719,7 @@
     },
     {
       "name": "Chelsea Market",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -2730,7 +2731,7 @@
     },
     {
       "name": "Chenla",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -2742,7 +2743,7 @@
     },
     {
       "name": "Cherry Cream Soda",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -2754,7 +2755,7 @@
     },
     {
       "name": "Cherry Swash",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -2770,7 +2771,7 @@
     },
     {
       "name": "Chewy",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -2782,7 +2783,7 @@
     },
     {
       "name": "Chicle",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -2794,7 +2795,7 @@
     },
     {
       "name": "Chivo",
-      "lastModified": "2017-01-26",
+      "last_modified": "2017-01-26",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -2834,7 +2835,7 @@
     },
     {
       "name": "Chonburi",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -2846,7 +2847,7 @@
     },
     {
       "name": "Cinzel",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -2866,7 +2867,7 @@
     },
     {
       "name": "Cinzel Decorative",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -2886,7 +2887,7 @@
     },
     {
       "name": "Clicker Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -2898,7 +2899,7 @@
     },
     {
       "name": "Coda",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v12",
       "category": "display",
       "fonts": {
@@ -2914,7 +2915,7 @@
     },
     {
       "name": "Coda Caption",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v10",
       "category": "sans-serif",
       "fonts": {
@@ -2926,7 +2927,7 @@
     },
     {
       "name": "Codystar",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -2942,7 +2943,7 @@
     },
     {
       "name": "Coiny",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -2954,7 +2955,7 @@
     },
     {
       "name": "Combo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -2966,7 +2967,7 @@
     },
     {
       "name": "Comfortaa",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v10",
       "category": "display",
       "fonts": {
@@ -2986,7 +2987,7 @@
     },
     {
       "name": "Coming Soon",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -2998,7 +2999,7 @@
     },
     {
       "name": "Concert One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -3010,7 +3011,7 @@
     },
     {
       "name": "Condiment",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -3022,7 +3023,7 @@
     },
     {
       "name": "Content",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -3038,7 +3039,7 @@
     },
     {
       "name": "Contrail One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -3050,7 +3051,7 @@
     },
     {
       "name": "Convergence",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -3062,7 +3063,7 @@
     },
     {
       "name": "Cookie",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -3074,7 +3075,7 @@
     },
     {
       "name": "Copse",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -3086,7 +3087,7 @@
     },
     {
       "name": "Corben",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -3102,7 +3103,7 @@
     },
     {
       "name": "Cormorant",
-      "lastModified": "2017-05-31",
+      "last_modified": "2017-05-31",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -3150,7 +3151,7 @@
     },
     {
       "name": "Cormorant Garamond",
-      "lastModified": "2017-01-25",
+      "last_modified": "2017-01-25",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -3198,7 +3199,7 @@
     },
     {
       "name": "Cormorant Infant",
-      "lastModified": "2017-01-25",
+      "last_modified": "2017-01-25",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -3246,7 +3247,7 @@
     },
     {
       "name": "Cormorant SC",
-      "lastModified": "2017-01-25",
+      "last_modified": "2017-01-25",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -3274,7 +3275,7 @@
     },
     {
       "name": "Cormorant Unicase",
-      "lastModified": "2017-01-25",
+      "last_modified": "2017-01-25",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -3302,7 +3303,7 @@
     },
     {
       "name": "Cormorant Upright",
-      "lastModified": "2017-01-25",
+      "last_modified": "2017-01-25",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -3330,7 +3331,7 @@
     },
     {
       "name": "Courgette",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -3342,7 +3343,7 @@
     },
     {
       "name": "Cousine",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v10",
       "category": "monospace",
       "fonts": {
@@ -3366,7 +3367,7 @@
     },
     {
       "name": "Coustard",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -3382,7 +3383,7 @@
     },
     {
       "name": "Covered By Your Grace",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -3394,7 +3395,7 @@
     },
     {
       "name": "Crafty Girls",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -3406,7 +3407,7 @@
     },
     {
       "name": "Creepster",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -3418,7 +3419,7 @@
     },
     {
       "name": "Crete Round",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -3434,7 +3435,7 @@
     },
     {
       "name": "Crimson Text",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -3466,7 +3467,7 @@
     },
     {
       "name": "Croissant One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -3478,7 +3479,7 @@
     },
     {
       "name": "Crushed",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -3490,7 +3491,7 @@
     },
     {
       "name": "Cuprum",
-      "lastModified": "2017-01-19",
+      "last_modified": "2017-01-19",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -3514,7 +3515,7 @@
     },
     {
       "name": "Cutive",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -3526,7 +3527,7 @@
     },
     {
       "name": "Cutive Mono",
-      "lastModified": "2016-12-08",
+      "last_modified": "2016-12-08",
       "version": "v5",
       "category": "monospace",
       "fonts": {
@@ -3538,7 +3539,7 @@
     },
     {
       "name": "Damion",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -3550,7 +3551,7 @@
     },
     {
       "name": "Dancing Script",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v8",
       "category": "handwriting",
       "fonts": {
@@ -3566,7 +3567,7 @@
     },
     {
       "name": "Dangrek",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -3578,7 +3579,7 @@
     },
     {
       "name": "David Libre",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -3598,7 +3599,7 @@
     },
     {
       "name": "Dawning of a New Day",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -3610,7 +3611,7 @@
     },
     {
       "name": "Days One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -3622,7 +3623,7 @@
     },
     {
       "name": "Dekko",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v3",
       "category": "handwriting",
       "fonts": {
@@ -3634,7 +3635,7 @@
     },
     {
       "name": "Delius",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -3646,7 +3647,7 @@
     },
     {
       "name": "Delius Swash Caps",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "handwriting",
       "fonts": {
@@ -3658,7 +3659,7 @@
     },
     {
       "name": "Delius Unicase",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "handwriting",
       "fonts": {
@@ -3674,7 +3675,7 @@
     },
     {
       "name": "Della Respira",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -3686,7 +3687,7 @@
     },
     {
       "name": "Denk One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -3698,7 +3699,7 @@
     },
     {
       "name": "Devonshire",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -3710,7 +3711,7 @@
     },
     {
       "name": "Dhurjati",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -3722,7 +3723,7 @@
     },
     {
       "name": "Didact Gothic",
-      "lastModified": "2017-01-26",
+      "last_modified": "2017-01-26",
       "version": "v10",
       "category": "sans-serif",
       "fonts": {
@@ -3734,7 +3735,7 @@
     },
     {
       "name": "Diplomata",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -3746,7 +3747,7 @@
     },
     {
       "name": "Diplomata SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -3758,7 +3759,7 @@
     },
     {
       "name": "Domine",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -3774,7 +3775,7 @@
     },
     {
       "name": "Donegal One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -3786,7 +3787,7 @@
     },
     {
       "name": "Doppio One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -3798,7 +3799,7 @@
     },
     {
       "name": "Dorsa",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -3810,7 +3811,7 @@
     },
     {
       "name": "Dosis",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -3846,7 +3847,7 @@
     },
     {
       "name": "Dr Sugiyama",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -3858,7 +3859,7 @@
     },
     {
       "name": "Droid Sans",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -3874,7 +3875,7 @@
     },
     {
       "name": "Droid Sans Mono",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v7",
       "category": "monospace",
       "fonts": {
@@ -3886,7 +3887,7 @@
     },
     {
       "name": "Droid Serif",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -3910,7 +3911,7 @@
     },
     {
       "name": "Duru Sans",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v9",
       "category": "sans-serif",
       "fonts": {
@@ -3922,7 +3923,7 @@
     },
     {
       "name": "Dynalight",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -3934,7 +3935,7 @@
     },
     {
       "name": "EB Garamond",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -3946,7 +3947,7 @@
     },
     {
       "name": "Eagle Lake",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -3958,7 +3959,7 @@
     },
     {
       "name": "Eater",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -3970,7 +3971,7 @@
     },
     {
       "name": "Economica",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -3994,7 +3995,7 @@
     },
     {
       "name": "Eczar",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -4022,7 +4023,7 @@
     },
     {
       "name": "Ek Mukta",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -4058,7 +4059,7 @@
     },
     {
       "name": "El Messiri",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -4082,7 +4083,7 @@
     },
     {
       "name": "Electrolize",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -4094,7 +4095,7 @@
     },
     {
       "name": "Elsie",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -4110,7 +4111,7 @@
     },
     {
       "name": "Elsie Swash Caps",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -4126,7 +4127,7 @@
     },
     {
       "name": "Emblema One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -4138,7 +4139,7 @@
     },
     {
       "name": "Emilys Candy",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -4150,7 +4151,7 @@
     },
     {
       "name": "Engagement",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -4162,7 +4163,7 @@
     },
     {
       "name": "Englebert",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -4174,7 +4175,7 @@
     },
     {
       "name": "Enriqueta",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -4190,7 +4191,7 @@
     },
     {
       "name": "Erica One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -4202,7 +4203,7 @@
     },
     {
       "name": "Esteban",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -4214,7 +4215,7 @@
     },
     {
       "name": "Euphoria Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -4226,7 +4227,7 @@
     },
     {
       "name": "Ewert",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -4238,7 +4239,7 @@
     },
     {
       "name": "Exo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -4318,7 +4319,7 @@
     },
     {
       "name": "Exo 2",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v3",
       "category": "sans-serif",
       "fonts": {
@@ -4398,7 +4399,7 @@
     },
     {
       "name": "Expletus Sans",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -4438,7 +4439,7 @@
     },
     {
       "name": "Fanwood Text",
-      "lastModified": "2017-02-09",
+      "last_modified": "2017-02-09",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -4454,7 +4455,7 @@
     },
     {
       "name": "Farsan",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -4466,7 +4467,7 @@
     },
     {
       "name": "Fascinate",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -4478,7 +4479,7 @@
     },
     {
       "name": "Fascinate Inline",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -4490,7 +4491,7 @@
     },
     {
       "name": "Faster One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -4502,7 +4503,7 @@
     },
     {
       "name": "Fasthand",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -4514,7 +4515,7 @@
     },
     {
       "name": "Fauna One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -4526,7 +4527,7 @@
     },
     {
       "name": "Federant",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -4538,7 +4539,7 @@
     },
     {
       "name": "Federo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -4550,7 +4551,7 @@
     },
     {
       "name": "Felipa",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -4562,7 +4563,7 @@
     },
     {
       "name": "Fenix",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -4574,7 +4575,7 @@
     },
     {
       "name": "Finger Paint",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -4586,7 +4587,7 @@
     },
     {
       "name": "Fira Mono",
-      "lastModified": "2017-01-10",
+      "last_modified": "2017-01-10",
       "version": "v5",
       "category": "monospace",
       "fonts": {
@@ -4606,7 +4607,7 @@
     },
     {
       "name": "Fira Sans",
-      "lastModified": "2017-01-10",
+      "last_modified": "2017-01-10",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -4686,7 +4687,7 @@
     },
     {
       "name": "Fira Sans Condensed",
-      "lastModified": "2017-01-10",
+      "last_modified": "2017-01-10",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -4766,7 +4767,7 @@
     },
     {
       "name": "Fira Sans Extra Condensed",
-      "lastModified": "2017-01-10",
+      "last_modified": "2017-01-10",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -4846,7 +4847,7 @@
     },
     {
       "name": "Fjalla One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -4858,7 +4859,7 @@
     },
     {
       "name": "Fjord One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -4870,7 +4871,7 @@
     },
     {
       "name": "Flamenco",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -4886,7 +4887,7 @@
     },
     {
       "name": "Flavors",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -4898,7 +4899,7 @@
     },
     {
       "name": "Fondamento",
-      "lastModified": "2016-10-27",
+      "last_modified": "2016-10-27",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -4914,7 +4915,7 @@
     },
     {
       "name": "Fontdiner Swanky",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -4926,7 +4927,7 @@
     },
     {
       "name": "Forum",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -4938,7 +4939,7 @@
     },
     {
       "name": "Francois One",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v10",
       "category": "sans-serif",
       "fonts": {
@@ -4950,7 +4951,7 @@
     },
     {
       "name": "Frank Ruhl Libre",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -4978,7 +4979,7 @@
     },
     {
       "name": "Freckle Face",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -4990,7 +4991,7 @@
     },
     {
       "name": "Fredericka the Great",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -5002,7 +5003,7 @@
     },
     {
       "name": "Fredoka One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -5014,7 +5015,7 @@
     },
     {
       "name": "Freehand",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -5026,7 +5027,7 @@
     },
     {
       "name": "Fresca",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -5038,7 +5039,7 @@
     },
     {
       "name": "Frijole",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -5050,7 +5051,7 @@
     },
     {
       "name": "Fruktur",
-      "lastModified": "2017-03-15",
+      "last_modified": "2017-03-15",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -5062,7 +5063,7 @@
     },
     {
       "name": "Fugaz One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -5074,7 +5075,7 @@
     },
     {
       "name": "GFS Didot",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -5086,7 +5087,7 @@
     },
     {
       "name": "GFS Neohellenic",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -5110,7 +5111,7 @@
     },
     {
       "name": "Gabriela",
-      "lastModified": "2017-01-19",
+      "last_modified": "2017-01-19",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -5122,7 +5123,7 @@
     },
     {
       "name": "Gafata",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -5134,7 +5135,7 @@
     },
     {
       "name": "Galada",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -5146,7 +5147,7 @@
     },
     {
       "name": "Galdeano",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -5158,7 +5159,7 @@
     },
     {
       "name": "Galindo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -5170,7 +5171,7 @@
     },
     {
       "name": "Gentium Basic",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -5194,7 +5195,7 @@
     },
     {
       "name": "Gentium Book Basic",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -5218,7 +5219,7 @@
     },
     {
       "name": "Geo",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -5234,7 +5235,7 @@
     },
     {
       "name": "Geostar",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -5246,7 +5247,7 @@
     },
     {
       "name": "Geostar Fill",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -5258,7 +5259,7 @@
     },
     {
       "name": "Germania One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -5270,7 +5271,7 @@
     },
     {
       "name": "Gidugu",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v3",
       "category": "sans-serif",
       "fonts": {
@@ -5282,7 +5283,7 @@
     },
     {
       "name": "Gilda Display",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -5294,7 +5295,7 @@
     },
     {
       "name": "Give You Glory",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -5306,7 +5307,7 @@
     },
     {
       "name": "Glass Antiqua",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -5318,7 +5319,7 @@
     },
     {
       "name": "Glegoo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -5334,7 +5335,7 @@
     },
     {
       "name": "Gloria Hallelujah",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "handwriting",
       "fonts": {
@@ -5346,7 +5347,7 @@
     },
     {
       "name": "Goblin One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -5358,7 +5359,7 @@
     },
     {
       "name": "Gochi Hand",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -5370,7 +5371,7 @@
     },
     {
       "name": "Gorditas",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -5386,7 +5387,7 @@
     },
     {
       "name": "Goudy Bookletter 1911",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -5398,7 +5399,7 @@
     },
     {
       "name": "Graduate",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -5410,7 +5411,7 @@
     },
     {
       "name": "Grand Hotel",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -5422,7 +5423,7 @@
     },
     {
       "name": "Gravitas One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -5434,7 +5435,7 @@
     },
     {
       "name": "Great Vibes",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -5446,7 +5447,7 @@
     },
     {
       "name": "Griffy",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -5458,7 +5459,7 @@
     },
     {
       "name": "Gruppo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -5470,7 +5471,7 @@
     },
     {
       "name": "Gudea",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -5490,7 +5491,7 @@
     },
     {
       "name": "Gurajada",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -5502,7 +5503,7 @@
     },
     {
       "name": "Habibi",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -5514,7 +5515,7 @@
     },
     {
       "name": "Halant",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -5542,7 +5543,7 @@
     },
     {
       "name": "Hammersmith One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -5554,7 +5555,7 @@
     },
     {
       "name": "Hanalei",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -5566,7 +5567,7 @@
     },
     {
       "name": "Hanalei Fill",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -5578,7 +5579,7 @@
     },
     {
       "name": "Handlee",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -5590,7 +5591,7 @@
     },
     {
       "name": "Hanuman",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v10",
       "category": "serif",
       "fonts": {
@@ -5606,7 +5607,7 @@
     },
     {
       "name": "Happy Monkey",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -5618,7 +5619,7 @@
     },
     {
       "name": "Harmattan",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -5630,7 +5631,7 @@
     },
     {
       "name": "Headland One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -5642,7 +5643,7 @@
     },
     {
       "name": "Heebo",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -5678,7 +5679,7 @@
     },
     {
       "name": "Henny Penny",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -5690,7 +5691,7 @@
     },
     {
       "name": "Herr Von Muellerhoff",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -5702,7 +5703,7 @@
     },
     {
       "name": "Hind",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -5730,7 +5731,7 @@
     },
     {
       "name": "Hind Guntur",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -5758,7 +5759,7 @@
     },
     {
       "name": "Hind Madurai",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -5786,7 +5787,7 @@
     },
     {
       "name": "Hind Siliguri",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v3",
       "category": "sans-serif",
       "fonts": {
@@ -5814,7 +5815,7 @@
     },
     {
       "name": "Hind Vadodara",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v3",
       "category": "sans-serif",
       "fonts": {
@@ -5842,7 +5843,7 @@
     },
     {
       "name": "Holtwood One SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -5854,7 +5855,7 @@
     },
     {
       "name": "Homemade Apple",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -5866,7 +5867,7 @@
     },
     {
       "name": "Homenaje",
-      "lastModified": "2016-12-08",
+      "last_modified": "2016-12-08",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -5878,7 +5879,7 @@
     },
     {
       "name": "IM Fell DW Pica",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -5894,7 +5895,7 @@
     },
     {
       "name": "IM Fell DW Pica SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -5906,7 +5907,7 @@
     },
     {
       "name": "IM Fell Double Pica",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -5922,7 +5923,7 @@
     },
     {
       "name": "IM Fell Double Pica SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -5934,7 +5935,7 @@
     },
     {
       "name": "IM Fell English",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -5950,7 +5951,7 @@
     },
     {
       "name": "IM Fell English SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -5962,7 +5963,7 @@
     },
     {
       "name": "IM Fell French Canon",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -5978,7 +5979,7 @@
     },
     {
       "name": "IM Fell French Canon SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -5990,7 +5991,7 @@
     },
     {
       "name": "IM Fell Great Primer",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -6006,7 +6007,7 @@
     },
     {
       "name": "IM Fell Great Primer SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -6018,7 +6019,7 @@
     },
     {
       "name": "Iceberg",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -6030,7 +6031,7 @@
     },
     {
       "name": "Iceland",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -6042,7 +6043,7 @@
     },
     {
       "name": "Imprima",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -6054,7 +6055,7 @@
     },
     {
       "name": "Inconsolata",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v15",
       "category": "monospace",
       "fonts": {
@@ -6070,7 +6071,7 @@
     },
     {
       "name": "Inder",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -6082,7 +6083,7 @@
     },
     {
       "name": "Indie Flower",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "handwriting",
       "fonts": {
@@ -6094,7 +6095,7 @@
     },
     {
       "name": "Inika",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -6110,7 +6111,7 @@
     },
     {
       "name": "Inknut Antiqua",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -6146,7 +6147,7 @@
     },
     {
       "name": "Irish Grover",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -6158,7 +6159,7 @@
     },
     {
       "name": "Istok Web",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v10",
       "category": "sans-serif",
       "fonts": {
@@ -6182,7 +6183,7 @@
     },
     {
       "name": "Italiana",
-      "lastModified": "2016-10-27",
+      "last_modified": "2016-10-27",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -6194,7 +6195,7 @@
     },
     {
       "name": "Italianno",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -6206,7 +6207,7 @@
     },
     {
       "name": "Itim",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "handwriting",
       "fonts": {
@@ -6218,7 +6219,7 @@
     },
     {
       "name": "Jacques Francois",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -6230,7 +6231,7 @@
     },
     {
       "name": "Jacques Francois Shadow",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -6242,7 +6243,7 @@
     },
     {
       "name": "Jaldi",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -6258,7 +6259,7 @@
     },
     {
       "name": "Jim Nightshade",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -6270,7 +6271,7 @@
     },
     {
       "name": "Jockey One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -6282,7 +6283,7 @@
     },
     {
       "name": "Jolly Lodger",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -6294,7 +6295,7 @@
     },
     {
       "name": "Jomhuria",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -6306,7 +6307,7 @@
     },
     {
       "name": "Josefin Sans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "sans-serif",
       "fonts": {
@@ -6354,7 +6355,7 @@
     },
     {
       "name": "Josefin Slab",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -6402,7 +6403,7 @@
     },
     {
       "name": "Joti One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -6414,7 +6415,7 @@
     },
     {
       "name": "Judson",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "serif",
       "fonts": {
@@ -6434,7 +6435,7 @@
     },
     {
       "name": "Julee",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -6446,7 +6447,7 @@
     },
     {
       "name": "Julius Sans One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -6458,7 +6459,7 @@
     },
     {
       "name": "Junge",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -6470,7 +6471,7 @@
     },
     {
       "name": "Jura",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -6498,7 +6499,7 @@
     },
     {
       "name": "Just Another Hand",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -6510,7 +6511,7 @@
     },
     {
       "name": "Just Me Again Down Here",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "handwriting",
       "fonts": {
@@ -6522,7 +6523,7 @@
     },
     {
       "name": "Kadwa",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -6538,7 +6539,7 @@
     },
     {
       "name": "Kalam",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -6558,7 +6559,7 @@
     },
     {
       "name": "Kameron",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -6574,7 +6575,7 @@
     },
     {
       "name": "Kanit",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -6654,7 +6655,7 @@
     },
     {
       "name": "Kantumruy",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v3",
       "category": "sans-serif",
       "fonts": {
@@ -6674,7 +6675,7 @@
     },
     {
       "name": "Karla",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -6698,7 +6699,7 @@
     },
     {
       "name": "Karma",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -6726,7 +6727,7 @@
     },
     {
       "name": "Katibeh",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -6738,7 +6739,7 @@
     },
     {
       "name": "Kaushan Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -6750,7 +6751,7 @@
     },
     {
       "name": "Kavivanar",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "handwriting",
       "fonts": {
@@ -6762,7 +6763,7 @@
     },
     {
       "name": "Kavoon",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -6774,7 +6775,7 @@
     },
     {
       "name": "Kdam Thmor",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v3",
       "category": "display",
       "fonts": {
@@ -6786,7 +6787,7 @@
     },
     {
       "name": "Keania One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -6798,7 +6799,7 @@
     },
     {
       "name": "Kelly Slab",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -6810,7 +6811,7 @@
     },
     {
       "name": "Kenia",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -6822,7 +6823,7 @@
     },
     {
       "name": "Khand",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -6850,7 +6851,7 @@
     },
     {
       "name": "Khmer",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -6862,7 +6863,7 @@
     },
     {
       "name": "Khula",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -6890,7 +6891,7 @@
     },
     {
       "name": "Kite One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -6902,7 +6903,7 @@
     },
     {
       "name": "Knewave",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -6914,7 +6915,7 @@
     },
     {
       "name": "Kotta One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -6926,7 +6927,7 @@
     },
     {
       "name": "Koulen",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v10",
       "category": "display",
       "fonts": {
@@ -6938,7 +6939,7 @@
     },
     {
       "name": "Kranky",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -6950,7 +6951,7 @@
     },
     {
       "name": "Kreon",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v10",
       "category": "serif",
       "fonts": {
@@ -6970,7 +6971,7 @@
     },
     {
       "name": "Kristi",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v8",
       "category": "handwriting",
       "fonts": {
@@ -6982,7 +6983,7 @@
     },
     {
       "name": "Krona One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -6994,7 +6995,7 @@
     },
     {
       "name": "Kumar One",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -7006,7 +7007,7 @@
     },
     {
       "name": "Kumar One Outline",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -7018,7 +7019,7 @@
     },
     {
       "name": "Kurale",
-      "lastModified": "2017-01-19",
+      "last_modified": "2017-01-19",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -7030,7 +7031,7 @@
     },
     {
       "name": "La Belle Aurore",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -7042,7 +7043,7 @@
     },
     {
       "name": "Laila",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -7070,7 +7071,7 @@
     },
     {
       "name": "Lakki Reddy",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v3",
       "category": "handwriting",
       "fonts": {
@@ -7082,7 +7083,7 @@
     },
     {
       "name": "Lalezar",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -7094,7 +7095,7 @@
     },
     {
       "name": "Lancelot",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -7106,7 +7107,7 @@
     },
     {
       "name": "Lateef",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v10",
       "category": "handwriting",
       "fonts": {
@@ -7118,7 +7119,7 @@
     },
     {
       "name": "Lato",
-      "lastModified": "2017-02-09",
+      "last_modified": "2017-02-09",
       "version": "v13",
       "category": "sans-serif",
       "fonts": {
@@ -7166,7 +7167,7 @@
     },
     {
       "name": "League Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -7178,7 +7179,7 @@
     },
     {
       "name": "Leckerli One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -7190,7 +7191,7 @@
     },
     {
       "name": "Ledger",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -7202,7 +7203,7 @@
     },
     {
       "name": "Lekton",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -7222,7 +7223,7 @@
     },
     {
       "name": "Lemon",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -7234,7 +7235,7 @@
     },
     {
       "name": "Lemonada",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -7258,7 +7259,7 @@
     },
     {
       "name": "Libre Baskerville",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -7278,7 +7279,7 @@
     },
     {
       "name": "Libre Franklin",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -7358,7 +7359,7 @@
     },
     {
       "name": "Life Savers",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -7374,7 +7375,7 @@
     },
     {
       "name": "Lilita One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -7386,7 +7387,7 @@
     },
     {
       "name": "Lily Script One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -7398,7 +7399,7 @@
     },
     {
       "name": "Limelight",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -7410,7 +7411,7 @@
     },
     {
       "name": "Linden Hill",
-      "lastModified": "2017-02-09",
+      "last_modified": "2017-02-09",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -7426,7 +7427,7 @@
     },
     {
       "name": "Lobster",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v18",
       "category": "display",
       "fonts": {
@@ -7438,7 +7439,7 @@
     },
     {
       "name": "Lobster Two",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -7462,7 +7463,7 @@
     },
     {
       "name": "Londrina Outline",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -7474,7 +7475,7 @@
     },
     {
       "name": "Londrina Shadow",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -7486,7 +7487,7 @@
     },
     {
       "name": "Londrina Sketch",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -7498,7 +7499,7 @@
     },
     {
       "name": "Londrina Solid",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -7510,7 +7511,7 @@
     },
     {
       "name": "Lora",
-      "lastModified": "2017-01-19",
+      "last_modified": "2017-01-19",
       "version": "v10",
       "category": "serif",
       "fonts": {
@@ -7534,7 +7535,7 @@
     },
     {
       "name": "Love Ya Like A Sister",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -7546,7 +7547,7 @@
     },
     {
       "name": "Loved by the King",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -7558,7 +7559,7 @@
     },
     {
       "name": "Lovers Quarrel",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -7570,7 +7571,7 @@
     },
     {
       "name": "Luckiest Guy",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -7582,7 +7583,7 @@
     },
     {
       "name": "Lusitana",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -7598,7 +7599,7 @@
     },
     {
       "name": "Lustria",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -7610,7 +7611,7 @@
     },
     {
       "name": "Macondo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -7622,7 +7623,7 @@
     },
     {
       "name": "Macondo Swash Caps",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -7634,7 +7635,7 @@
     },
     {
       "name": "Mada",
-      "lastModified": "2017-05-11",
+      "last_modified": "2017-05-11",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -7658,7 +7659,7 @@
     },
     {
       "name": "Magra",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -7674,7 +7675,7 @@
     },
     {
       "name": "Maiden Orange",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -7686,7 +7687,7 @@
     },
     {
       "name": "Maitree",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -7718,7 +7719,7 @@
     },
     {
       "name": "Mako",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -7730,7 +7731,7 @@
     },
     {
       "name": "Mallanna",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -7742,7 +7743,7 @@
     },
     {
       "name": "Mandali",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -7754,7 +7755,7 @@
     },
     {
       "name": "Marcellus",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -7766,7 +7767,7 @@
     },
     {
       "name": "Marcellus SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -7778,7 +7779,7 @@
     },
     {
       "name": "Marck Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -7790,7 +7791,7 @@
     },
     {
       "name": "Margarine",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -7802,7 +7803,7 @@
     },
     {
       "name": "Marko One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -7814,7 +7815,7 @@
     },
     {
       "name": "Marmelad",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -7826,7 +7827,7 @@
     },
     {
       "name": "Martel",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -7862,7 +7863,7 @@
     },
     {
       "name": "Martel Sans",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v3",
       "category": "sans-serif",
       "fonts": {
@@ -7898,7 +7899,7 @@
     },
     {
       "name": "Marvel",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -7922,7 +7923,7 @@
     },
     {
       "name": "Mate",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -7938,7 +7939,7 @@
     },
     {
       "name": "Mate SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -7950,7 +7951,7 @@
     },
     {
       "name": "Maven Pro",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v9",
       "category": "sans-serif",
       "fonts": {
@@ -7974,7 +7975,7 @@
     },
     {
       "name": "McLaren",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -7986,7 +7987,7 @@
     },
     {
       "name": "Meddon",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "handwriting",
       "fonts": {
@@ -7998,7 +7999,7 @@
     },
     {
       "name": "MedievalSharp",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -8010,7 +8011,7 @@
     },
     {
       "name": "Medula One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -8022,7 +8023,7 @@
     },
     {
       "name": "Meera Inimai",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -8034,7 +8035,7 @@
     },
     {
       "name": "Megrim",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -8046,7 +8047,7 @@
     },
     {
       "name": "Meie Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -8058,7 +8059,7 @@
     },
     {
       "name": "Merienda",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -8074,7 +8075,7 @@
     },
     {
       "name": "Merienda One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -8086,7 +8087,7 @@
     },
     {
       "name": "Merriweather",
-      "lastModified": "2017-02-06",
+      "last_modified": "2017-02-06",
       "version": "v15",
       "category": "serif",
       "fonts": {
@@ -8126,7 +8127,7 @@
     },
     {
       "name": "Merriweather Sans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -8166,7 +8167,7 @@
     },
     {
       "name": "Metal",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -8178,7 +8179,7 @@
     },
     {
       "name": "Metal Mania",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -8190,7 +8191,7 @@
     },
     {
       "name": "Metamorphous",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -8202,7 +8203,7 @@
     },
     {
       "name": "Metrophobic",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v9",
       "category": "sans-serif",
       "fonts": {
@@ -8214,7 +8215,7 @@
     },
     {
       "name": "Michroma",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -8226,7 +8227,7 @@
     },
     {
       "name": "Milonga",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -8238,7 +8239,7 @@
     },
     {
       "name": "Miltonian",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v10",
       "category": "display",
       "fonts": {
@@ -8250,7 +8251,7 @@
     },
     {
       "name": "Miltonian Tattoo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v11",
       "category": "display",
       "fonts": {
@@ -8262,7 +8263,7 @@
     },
     {
       "name": "Miniver",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -8274,7 +8275,7 @@
     },
     {
       "name": "Miriam Libre",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -8290,7 +8291,7 @@
     },
     {
       "name": "Mirza",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -8314,7 +8315,7 @@
     },
     {
       "name": "Miss Fajardose",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -8326,7 +8327,7 @@
     },
     {
       "name": "Mitr",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -8358,7 +8359,7 @@
     },
     {
       "name": "Modak",
-      "lastModified": "2016-05-11",
+      "last_modified": "2016-05-11",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -8370,7 +8371,7 @@
     },
     {
       "name": "Modern Antiqua",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -8382,7 +8383,7 @@
     },
     {
       "name": "Mogra",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v3",
       "category": "display",
       "fonts": {
@@ -8394,7 +8395,7 @@
     },
     {
       "name": "Molengo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -8406,7 +8407,7 @@
     },
     {
       "name": "Molle",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -8418,7 +8419,7 @@
     },
     {
       "name": "Monda",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -8434,7 +8435,7 @@
     },
     {
       "name": "Monofett",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -8446,7 +8447,7 @@
     },
     {
       "name": "Monoton",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -8458,7 +8459,7 @@
     },
     {
       "name": "Monsieur La Doulaise",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -8470,7 +8471,7 @@
     },
     {
       "name": "Montaga",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -8482,7 +8483,7 @@
     },
     {
       "name": "Montez",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -8494,7 +8495,7 @@
     },
     {
       "name": "Montserrat",
-      "lastModified": "2017-02-09",
+      "last_modified": "2017-02-09",
       "version": "v10",
       "category": "sans-serif",
       "fonts": {
@@ -8574,7 +8575,7 @@
     },
     {
       "name": "Montserrat Alternates",
-      "lastModified": "2017-02-09",
+      "last_modified": "2017-02-09",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -8654,7 +8655,7 @@
     },
     {
       "name": "Montserrat Subrayada",
-      "lastModified": "2017-01-26",
+      "last_modified": "2017-01-26",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -8670,7 +8671,7 @@
     },
     {
       "name": "Moul",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -8682,7 +8683,7 @@
     },
     {
       "name": "Moulpali",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -8694,7 +8695,7 @@
     },
     {
       "name": "Mountains of Christmas",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -8710,7 +8711,7 @@
     },
     {
       "name": "Mouse Memoirs",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -8722,7 +8723,7 @@
     },
     {
       "name": "Mr Bedfort",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -8734,7 +8735,7 @@
     },
     {
       "name": "Mr Dafoe",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -8746,7 +8747,7 @@
     },
     {
       "name": "Mr De Haviland",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -8758,7 +8759,7 @@
     },
     {
       "name": "Mrs Saint Delafield",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -8770,7 +8771,7 @@
     },
     {
       "name": "Mrs Sheppards",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -8782,7 +8783,7 @@
     },
     {
       "name": "Mukta Vaani",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -8818,7 +8819,7 @@
     },
     {
       "name": "Muli",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v10",
       "category": "sans-serif",
       "fonts": {
@@ -8882,7 +8883,7 @@
     },
     {
       "name": "Mystery Quest",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -8894,7 +8895,7 @@
     },
     {
       "name": "NTR",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -8906,7 +8907,7 @@
     },
     {
       "name": "Neucha",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "handwriting",
       "fonts": {
@@ -8918,7 +8919,7 @@
     },
     {
       "name": "Neuton",
-      "lastModified": "2016-12-08",
+      "last_modified": "2016-12-08",
       "version": "v9",
       "category": "serif",
       "fonts": {
@@ -8950,7 +8951,7 @@
     },
     {
       "name": "New Rocker",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -8962,7 +8963,7 @@
     },
     {
       "name": "News Cycle",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v13",
       "category": "sans-serif",
       "fonts": {
@@ -8978,7 +8979,7 @@
     },
     {
       "name": "Niconne",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -8990,7 +8991,7 @@
     },
     {
       "name": "Nixie One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -9002,7 +9003,7 @@
     },
     {
       "name": "Nobile",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -9026,7 +9027,7 @@
     },
     {
       "name": "Nokora",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v9",
       "category": "serif",
       "fonts": {
@@ -9042,7 +9043,7 @@
     },
     {
       "name": "Norican",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -9054,7 +9055,7 @@
     },
     {
       "name": "Nosifer",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -9066,7 +9067,7 @@
     },
     {
       "name": "Nothing You Could Do",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -9078,7 +9079,7 @@
     },
     {
       "name": "Noticia Text",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -9102,7 +9103,7 @@
     },
     {
       "name": "Noto Sans",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -9126,7 +9127,7 @@
     },
     {
       "name": "Noto Serif",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -9150,7 +9151,7 @@
     },
     {
       "name": "Nova Cut",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -9162,7 +9163,7 @@
     },
     {
       "name": "Nova Flat",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -9174,7 +9175,7 @@
     },
     {
       "name": "Nova Mono",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "monospace",
       "fonts": {
@@ -9186,7 +9187,7 @@
     },
     {
       "name": "Nova Oval",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -9198,7 +9199,7 @@
     },
     {
       "name": "Nova Round",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -9210,7 +9211,7 @@
     },
     {
       "name": "Nova Script",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -9222,7 +9223,7 @@
     },
     {
       "name": "Nova Slim",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -9234,7 +9235,7 @@
     },
     {
       "name": "Nova Square",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -9246,7 +9247,7 @@
     },
     {
       "name": "Numans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -9258,7 +9259,7 @@
     },
     {
       "name": "Nunito",
-      "lastModified": "2016-12-08",
+      "last_modified": "2016-12-08",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -9322,7 +9323,7 @@
     },
     {
       "name": "Nunito Sans",
-      "lastModified": "2017-01-25",
+      "last_modified": "2017-01-25",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -9386,7 +9387,7 @@
     },
     {
       "name": "Odor Mean Chey",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -9398,7 +9399,7 @@
     },
     {
       "name": "Offside",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -9410,7 +9411,7 @@
     },
     {
       "name": "Old Standard TT",
-      "lastModified": "2017-01-19",
+      "last_modified": "2017-01-19",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -9430,7 +9431,7 @@
     },
     {
       "name": "Oldenburg",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -9442,7 +9443,7 @@
     },
     {
       "name": "Oleo Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -9458,7 +9459,7 @@
     },
     {
       "name": "Oleo Script Swash Caps",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -9474,7 +9475,7 @@
     },
     {
       "name": "Open Sans",
-      "lastModified": "2017-06-14",
+      "last_modified": "2017-06-14",
       "version": "v14",
       "category": "sans-serif",
       "fonts": {
@@ -9522,7 +9523,7 @@
     },
     {
       "name": "Open Sans Condensed",
-      "lastModified": "2017-06-14",
+      "last_modified": "2017-06-14",
       "version": "v11",
       "category": "sans-serif",
       "fonts": {
@@ -9542,7 +9543,7 @@
     },
     {
       "name": "Oranienbaum",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -9554,7 +9555,7 @@
     },
     {
       "name": "Orbitron",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -9578,7 +9579,7 @@
     },
     {
       "name": "Oregano",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -9594,7 +9595,7 @@
     },
     {
       "name": "Orienta",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -9606,7 +9607,7 @@
     },
     {
       "name": "Original Surfer",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -9618,7 +9619,7 @@
     },
     {
       "name": "Oswald",
-      "lastModified": "2017-02-14",
+      "last_modified": "2017-02-14",
       "version": "v13",
       "category": "sans-serif",
       "fonts": {
@@ -9650,7 +9651,7 @@
     },
     {
       "name": "Over the Rainbow",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -9662,7 +9663,7 @@
     },
     {
       "name": "Overlock",
-      "lastModified": "2017-05-15",
+      "last_modified": "2017-05-15",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -9694,7 +9695,7 @@
     },
     {
       "name": "Overlock SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -9706,7 +9707,7 @@
     },
     {
       "name": "Overpass",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -9778,7 +9779,7 @@
     },
     {
       "name": "Overpass Mono",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v2",
       "category": "monospace",
       "fonts": {
@@ -9802,7 +9803,7 @@
     },
     {
       "name": "Ovo",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -9814,7 +9815,7 @@
     },
     {
       "name": "Oxygen",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -9834,7 +9835,7 @@
     },
     {
       "name": "Oxygen Mono",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "monospace",
       "fonts": {
@@ -9846,7 +9847,7 @@
     },
     {
       "name": "PT Mono",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "monospace",
       "fonts": {
@@ -9858,7 +9859,7 @@
     },
     {
       "name": "PT Sans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -9882,7 +9883,7 @@
     },
     {
       "name": "PT Sans Caption",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "sans-serif",
       "fonts": {
@@ -9898,7 +9899,7 @@
     },
     {
       "name": "PT Sans Narrow",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -9914,7 +9915,7 @@
     },
     {
       "name": "PT Serif",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -9938,7 +9939,7 @@
     },
     {
       "name": "PT Serif Caption",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -9954,7 +9955,7 @@
     },
     {
       "name": "Pacifico",
-      "lastModified": "2017-01-20",
+      "last_modified": "2017-01-20",
       "version": "v9",
       "category": "handwriting",
       "fonts": {
@@ -9966,7 +9967,7 @@
     },
     {
       "name": "Padauk",
-      "lastModified": "2017-01-10",
+      "last_modified": "2017-01-10",
       "version": "v3",
       "category": "sans-serif",
       "fonts": {
@@ -9982,7 +9983,7 @@
     },
     {
       "name": "Palanquin",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -10018,7 +10019,7 @@
     },
     {
       "name": "Palanquin Dark",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -10042,7 +10043,7 @@
     },
     {
       "name": "Pangolin",
-      "lastModified": "2017-06-05",
+      "last_modified": "2017-06-05",
       "version": "v2",
       "category": "handwriting",
       "fonts": {
@@ -10054,7 +10055,7 @@
     },
     {
       "name": "Paprika",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -10066,7 +10067,7 @@
     },
     {
       "name": "Parisienne",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -10078,7 +10079,7 @@
     },
     {
       "name": "Passero One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -10090,7 +10091,7 @@
     },
     {
       "name": "Passion One",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -10110,7 +10111,7 @@
     },
     {
       "name": "Pathway Gothic One",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -10122,7 +10123,7 @@
     },
     {
       "name": "Patrick Hand",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v10",
       "category": "handwriting",
       "fonts": {
@@ -10134,7 +10135,7 @@
     },
     {
       "name": "Patrick Hand SC",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -10146,7 +10147,7 @@
     },
     {
       "name": "Pattaya",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -10158,7 +10159,7 @@
     },
     {
       "name": "Patua One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -10170,7 +10171,7 @@
     },
     {
       "name": "Pavanam",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -10182,7 +10183,7 @@
     },
     {
       "name": "Paytone One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -10194,7 +10195,7 @@
     },
     {
       "name": "Peddana",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -10206,7 +10207,7 @@
     },
     {
       "name": "Peralta",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -10218,7 +10219,7 @@
     },
     {
       "name": "Permanent Marker",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -10230,7 +10231,7 @@
     },
     {
       "name": "Petit Formal Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -10242,7 +10243,7 @@
     },
     {
       "name": "Petrona",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -10254,7 +10255,7 @@
     },
     {
       "name": "Philosopher",
-      "lastModified": "2017-01-19",
+      "last_modified": "2017-01-19",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -10278,7 +10279,7 @@
     },
     {
       "name": "Piedra",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -10290,7 +10291,7 @@
     },
     {
       "name": "Pinyon Script",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -10302,7 +10303,7 @@
     },
     {
       "name": "Pirata One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -10314,7 +10315,7 @@
     },
     {
       "name": "Plaster",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -10326,7 +10327,7 @@
     },
     {
       "name": "Play",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -10342,7 +10343,7 @@
     },
     {
       "name": "Playball",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -10354,7 +10355,7 @@
     },
     {
       "name": "Playfair Display",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v10",
       "category": "serif",
       "fonts": {
@@ -10386,7 +10387,7 @@
     },
     {
       "name": "Playfair Display SC",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -10418,7 +10419,7 @@
     },
     {
       "name": "Podkova",
-      "lastModified": "2017-02-09",
+      "last_modified": "2017-02-09",
       "version": "v10",
       "category": "serif",
       "fonts": {
@@ -10446,7 +10447,7 @@
     },
     {
       "name": "Poiret One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -10458,7 +10459,7 @@
     },
     {
       "name": "Poller One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -10470,7 +10471,7 @@
     },
     {
       "name": "Poly",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -10486,7 +10487,7 @@
     },
     {
       "name": "Pompiere",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -10498,7 +10499,7 @@
     },
     {
       "name": "Pontano Sans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -10510,7 +10511,7 @@
     },
     {
       "name": "Poppins",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -10538,7 +10539,7 @@
     },
     {
       "name": "Port Lligat Sans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -10550,7 +10551,7 @@
     },
     {
       "name": "Port Lligat Slab",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -10562,7 +10563,7 @@
     },
     {
       "name": "Pragati Narrow",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -10578,7 +10579,7 @@
     },
     {
       "name": "Prata",
-      "lastModified": "2017-01-19",
+      "last_modified": "2017-01-19",
       "version": "v7",
       "category": "serif",
       "fonts": {
@@ -10590,7 +10591,7 @@
     },
     {
       "name": "Preahvihear",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -10602,7 +10603,7 @@
     },
     {
       "name": "Press Start 2P",
-      "lastModified": "2017-01-20",
+      "last_modified": "2017-01-20",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -10614,7 +10615,7 @@
     },
     {
       "name": "Pridi",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -10646,7 +10647,7 @@
     },
     {
       "name": "Princess Sofia",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -10658,7 +10659,7 @@
     },
     {
       "name": "Prociono",
-      "lastModified": "2017-02-09",
+      "last_modified": "2017-02-09",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -10670,7 +10671,7 @@
     },
     {
       "name": "Prompt",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -10750,7 +10751,7 @@
     },
     {
       "name": "Prosto One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -10762,7 +10763,7 @@
     },
     {
       "name": "Proza Libre",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -10810,7 +10811,7 @@
     },
     {
       "name": "Puritan",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -10834,7 +10835,7 @@
     },
     {
       "name": "Purple Purse",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -10846,7 +10847,7 @@
     },
     {
       "name": "Quando",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -10858,7 +10859,7 @@
     },
     {
       "name": "Quantico",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -10882,7 +10883,7 @@
     },
     {
       "name": "Quattrocento",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -10898,7 +10899,7 @@
     },
     {
       "name": "Quattrocento Sans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "sans-serif",
       "fonts": {
@@ -10922,7 +10923,7 @@
     },
     {
       "name": "Questrial",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -10934,7 +10935,7 @@
     },
     {
       "name": "Quicksand",
-      "lastModified": "2016-12-08",
+      "last_modified": "2016-12-08",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -10958,7 +10959,7 @@
     },
     {
       "name": "Quintessential",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -10970,7 +10971,7 @@
     },
     {
       "name": "Qwigley",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -10982,7 +10983,7 @@
     },
     {
       "name": "Racing Sans One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -10994,7 +10995,7 @@
     },
     {
       "name": "Radley",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v9",
       "category": "serif",
       "fonts": {
@@ -11010,7 +11011,7 @@
     },
     {
       "name": "Rajdhani",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -11038,7 +11039,7 @@
     },
     {
       "name": "Rakkas",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -11050,7 +11051,7 @@
     },
     {
       "name": "Raleway",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v11",
       "category": "sans-serif",
       "fonts": {
@@ -11130,7 +11131,7 @@
     },
     {
       "name": "Raleway Dots",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -11142,7 +11143,7 @@
     },
     {
       "name": "Ramabhadra",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -11154,7 +11155,7 @@
     },
     {
       "name": "Ramaraja",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -11166,7 +11167,7 @@
     },
     {
       "name": "Rambla",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -11190,7 +11191,7 @@
     },
     {
       "name": "Rammetto One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -11202,7 +11203,7 @@
     },
     {
       "name": "Ranchers",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -11214,7 +11215,7 @@
     },
     {
       "name": "Rancho",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -11226,7 +11227,7 @@
     },
     {
       "name": "Ranga",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -11242,7 +11243,7 @@
     },
     {
       "name": "Rasa",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -11270,7 +11271,7 @@
     },
     {
       "name": "Rationale",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -11282,7 +11283,7 @@
     },
     {
       "name": "Ravi Prakash",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v3",
       "category": "display",
       "fonts": {
@@ -11294,7 +11295,7 @@
     },
     {
       "name": "Redressed",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -11306,7 +11307,7 @@
     },
     {
       "name": "Reem Kufi",
-      "lastModified": "2016-08-22",
+      "last_modified": "2016-08-22",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -11318,7 +11319,7 @@
     },
     {
       "name": "Reenie Beanie",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -11330,7 +11331,7 @@
     },
     {
       "name": "Revalia",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -11342,7 +11343,7 @@
     },
     {
       "name": "Rhodium Libre",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -11354,7 +11355,7 @@
     },
     {
       "name": "Ribeye",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -11366,7 +11367,7 @@
     },
     {
       "name": "Ribeye Marrow",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -11378,7 +11379,7 @@
     },
     {
       "name": "Righteous",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -11390,7 +11391,7 @@
     },
     {
       "name": "Risque",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -11402,7 +11403,7 @@
     },
     {
       "name": "Roboto",
-      "lastModified": "2017-04-17",
+      "last_modified": "2017-04-17",
       "version": "v16",
       "category": "sans-serif",
       "fonts": {
@@ -11458,7 +11459,7 @@
     },
     {
       "name": "Roboto Condensed",
-      "lastModified": "2017-04-17",
+      "last_modified": "2017-04-17",
       "version": "v14",
       "category": "sans-serif",
       "fonts": {
@@ -11490,7 +11491,7 @@
     },
     {
       "name": "Roboto Mono",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v4",
       "category": "monospace",
       "fonts": {
@@ -11538,7 +11539,7 @@
     },
     {
       "name": "Roboto Slab",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -11562,7 +11563,7 @@
     },
     {
       "name": "Rochester",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -11574,7 +11575,7 @@
     },
     {
       "name": "Rock Salt",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -11586,7 +11587,7 @@
     },
     {
       "name": "Rokkitt",
-      "lastModified": "2017-02-09",
+      "last_modified": "2017-02-09",
       "version": "v11",
       "category": "serif",
       "fonts": {
@@ -11630,7 +11631,7 @@
     },
     {
       "name": "Romanesco",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -11642,7 +11643,7 @@
     },
     {
       "name": "Ropa Sans",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -11658,7 +11659,7 @@
     },
     {
       "name": "Rosario",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v11",
       "category": "sans-serif",
       "fonts": {
@@ -11682,7 +11683,7 @@
     },
     {
       "name": "Rosarivo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -11698,7 +11699,7 @@
     },
     {
       "name": "Rouge Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -11710,7 +11711,7 @@
     },
     {
       "name": "Rozha One",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -11722,7 +11723,7 @@
     },
     {
       "name": "Rubik",
-      "lastModified": "2017-01-20",
+      "last_modified": "2017-01-20",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -11770,7 +11771,7 @@
     },
     {
       "name": "Rubik Mono One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -11782,7 +11783,7 @@
     },
     {
       "name": "Ruda",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -11802,7 +11803,7 @@
     },
     {
       "name": "Rufina",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -11818,7 +11819,7 @@
     },
     {
       "name": "Ruge Boogie",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -11830,7 +11831,7 @@
     },
     {
       "name": "Ruluko",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -11842,7 +11843,7 @@
     },
     {
       "name": "Rum Raisin",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -11854,7 +11855,7 @@
     },
     {
       "name": "Ruslan Display",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -11866,7 +11867,7 @@
     },
     {
       "name": "Russo One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -11878,7 +11879,7 @@
     },
     {
       "name": "Ruthie",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -11890,7 +11891,7 @@
     },
     {
       "name": "Rye",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -11902,7 +11903,7 @@
     },
     {
       "name": "Sacramento",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -11914,7 +11915,7 @@
     },
     {
       "name": "Sahitya",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -11930,7 +11931,7 @@
     },
     {
       "name": "Sail",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -11942,7 +11943,7 @@
     },
     {
       "name": "Salsa",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -11954,7 +11955,7 @@
     },
     {
       "name": "Sanchez",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -11970,7 +11971,7 @@
     },
     {
       "name": "Sancreek",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -11982,7 +11983,7 @@
     },
     {
       "name": "Sansita",
-      "lastModified": "2017-01-26",
+      "last_modified": "2017-01-26",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -12022,7 +12023,7 @@
     },
     {
       "name": "Sarala",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -12038,7 +12039,7 @@
     },
     {
       "name": "Sarina",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -12050,7 +12051,7 @@
     },
     {
       "name": "Sarpanch",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -12082,7 +12083,7 @@
     },
     {
       "name": "Satisfy",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -12094,7 +12095,7 @@
     },
     {
       "name": "Scada",
-      "lastModified": "2017-01-20",
+      "last_modified": "2017-01-20",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -12118,7 +12119,7 @@
     },
     {
       "name": "Scheherazade",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v12",
       "category": "serif",
       "fonts": {
@@ -12134,7 +12135,7 @@
     },
     {
       "name": "Schoolbell",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -12146,7 +12147,7 @@
     },
     {
       "name": "Scope One",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -12158,7 +12159,7 @@
     },
     {
       "name": "Seaweed Script",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -12170,7 +12171,7 @@
     },
     {
       "name": "Secular One",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -12182,7 +12183,7 @@
     },
     {
       "name": "Sevillana",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -12194,7 +12195,7 @@
     },
     {
       "name": "Seymour One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -12206,7 +12207,7 @@
     },
     {
       "name": "Shadows Into Light",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -12218,7 +12219,7 @@
     },
     {
       "name": "Shadows Into Light Two",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -12230,7 +12231,7 @@
     },
     {
       "name": "Shanti",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -12242,7 +12243,7 @@
     },
     {
       "name": "Share",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -12266,7 +12267,7 @@
     },
     {
       "name": "Share Tech",
-      "lastModified": "2016-12-08",
+      "last_modified": "2016-12-08",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -12278,7 +12279,7 @@
     },
     {
       "name": "Share Tech Mono",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "monospace",
       "fonts": {
@@ -12290,7 +12291,7 @@
     },
     {
       "name": "Shojumaru",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -12302,7 +12303,7 @@
     },
     {
       "name": "Short Stack",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -12314,7 +12315,7 @@
     },
     {
       "name": "Shrikhand",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v2",
       "category": "display",
       "fonts": {
@@ -12326,7 +12327,7 @@
     },
     {
       "name": "Siemreap",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -12338,7 +12339,7 @@
     },
     {
       "name": "Sigmar One",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -12350,7 +12351,7 @@
     },
     {
       "name": "Signika",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -12374,7 +12375,7 @@
     },
     {
       "name": "Signika Negative",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -12398,7 +12399,7 @@
     },
     {
       "name": "Simonetta",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -12422,7 +12423,7 @@
     },
     {
       "name": "Sintony",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -12438,7 +12439,7 @@
     },
     {
       "name": "Sirin Stencil",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -12450,7 +12451,7 @@
     },
     {
       "name": "Six Caps",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -12462,7 +12463,7 @@
     },
     {
       "name": "Skranji",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -12478,7 +12479,7 @@
     },
     {
       "name": "Slabo 13px",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -12490,7 +12491,7 @@
     },
     {
       "name": "Slabo 27px",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -12502,7 +12503,7 @@
     },
     {
       "name": "Slackey",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -12514,7 +12515,7 @@
     },
     {
       "name": "Smokum",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -12526,7 +12527,7 @@
     },
     {
       "name": "Smythe",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -12538,7 +12539,7 @@
     },
     {
       "name": "Sniglet",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -12554,7 +12555,7 @@
     },
     {
       "name": "Snippet",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -12566,7 +12567,7 @@
     },
     {
       "name": "Snowburst One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -12578,7 +12579,7 @@
     },
     {
       "name": "Sofadi One",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -12590,7 +12591,7 @@
     },
     {
       "name": "Sofia",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -12602,7 +12603,7 @@
     },
     {
       "name": "Sonsie One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -12614,7 +12615,7 @@
     },
     {
       "name": "Sorts Mill Goudy",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -12630,7 +12631,7 @@
     },
     {
       "name": "Source Code Pro",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "monospace",
       "fonts": {
@@ -12666,7 +12667,7 @@
     },
     {
       "name": "Source Sans Pro",
-      "lastModified": "2017-06-05",
+      "last_modified": "2017-06-05",
       "version": "v10",
       "category": "sans-serif",
       "fonts": {
@@ -12722,7 +12723,7 @@
     },
     {
       "name": "Source Serif Pro",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -12742,7 +12743,7 @@
     },
     {
       "name": "Space Mono",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "monospace",
       "fonts": {
@@ -12766,7 +12767,7 @@
     },
     {
       "name": "Special Elite",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -12778,7 +12779,7 @@
     },
     {
       "name": "Spectral",
-      "lastModified": "2017-06-12",
+      "last_modified": "2017-06-12",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -12842,7 +12843,7 @@
     },
     {
       "name": "Spicy Rice",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -12854,7 +12855,7 @@
     },
     {
       "name": "Spinnaker",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -12866,7 +12867,7 @@
     },
     {
       "name": "Spirax",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -12878,7 +12879,7 @@
     },
     {
       "name": "Squada One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -12890,7 +12891,7 @@
     },
     {
       "name": "Sree Krushnadevaraya",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -12902,7 +12903,7 @@
     },
     {
       "name": "Sriracha",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "handwriting",
       "fonts": {
@@ -12914,7 +12915,7 @@
     },
     {
       "name": "Stalemate",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "handwriting",
       "fonts": {
@@ -12926,7 +12927,7 @@
     },
     {
       "name": "Stalinist One",
-      "lastModified": "2016-10-10",
+      "last_modified": "2016-10-10",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -12938,7 +12939,7 @@
     },
     {
       "name": "Stardos Stencil",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -12954,7 +12955,7 @@
     },
     {
       "name": "Stint Ultra Condensed",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -12966,7 +12967,7 @@
     },
     {
       "name": "Stint Ultra Expanded",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -12978,7 +12979,7 @@
     },
     {
       "name": "Stoke",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -12994,7 +12995,7 @@
     },
     {
       "name": "Strait",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -13006,7 +13007,7 @@
     },
     {
       "name": "Sue Ellen Francisco",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -13018,7 +13019,7 @@
     },
     {
       "name": "Suez One",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -13030,7 +13031,7 @@
     },
     {
       "name": "Sumana",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -13046,7 +13047,7 @@
     },
     {
       "name": "Sunshiney",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -13058,7 +13059,7 @@
     },
     {
       "name": "Supermercado One",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -13070,7 +13071,7 @@
     },
     {
       "name": "Sura",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "serif",
       "fonts": {
@@ -13086,7 +13087,7 @@
     },
     {
       "name": "Suranna",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "serif",
       "fonts": {
@@ -13098,7 +13099,7 @@
     },
     {
       "name": "Suravaram",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v3",
       "category": "serif",
       "fonts": {
@@ -13110,7 +13111,7 @@
     },
     {
       "name": "Suwannaphum",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v9",
       "category": "display",
       "fonts": {
@@ -13122,7 +13123,7 @@
     },
     {
       "name": "Swanky and Moo Moo",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -13134,7 +13135,7 @@
     },
     {
       "name": "Syncopate",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -13150,7 +13151,7 @@
     },
     {
       "name": "Tangerine",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v8",
       "category": "handwriting",
       "fonts": {
@@ -13166,7 +13167,7 @@
     },
     {
       "name": "Taprom",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -13178,7 +13179,7 @@
     },
     {
       "name": "Tauri",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -13190,7 +13191,7 @@
     },
     {
       "name": "Taviraj",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -13270,7 +13271,7 @@
     },
     {
       "name": "Teko",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -13298,7 +13299,7 @@
     },
     {
       "name": "Telex",
-      "lastModified": "2016-12-08",
+      "last_modified": "2016-12-08",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -13310,7 +13311,7 @@
     },
     {
       "name": "Tenali Ramakrishna",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v3",
       "category": "sans-serif",
       "fonts": {
@@ -13322,7 +13323,7 @@
     },
     {
       "name": "Tenor Sans",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -13334,7 +13335,7 @@
     },
     {
       "name": "Text Me One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -13346,7 +13347,7 @@
     },
     {
       "name": "The Girl Next Door",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -13358,7 +13359,7 @@
     },
     {
       "name": "Tienne",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v9",
       "category": "serif",
       "fonts": {
@@ -13378,7 +13379,7 @@
     },
     {
       "name": "Tillana",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "handwriting",
       "fonts": {
@@ -13406,7 +13407,7 @@
     },
     {
       "name": "Timmana",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v1",
       "category": "sans-serif",
       "fonts": {
@@ -13418,7 +13419,7 @@
     },
     {
       "name": "Tinos",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v9",
       "category": "serif",
       "fonts": {
@@ -13442,7 +13443,7 @@
     },
     {
       "name": "Titan One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -13454,7 +13455,7 @@
     },
     {
       "name": "Titillium Web",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -13506,7 +13507,7 @@
     },
     {
       "name": "Trade Winds",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -13518,7 +13519,7 @@
     },
     {
       "name": "Trirong",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -13598,7 +13599,7 @@
     },
     {
       "name": "Trocchi",
-      "lastModified": "2016-12-08",
+      "last_modified": "2016-12-08",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -13610,7 +13611,7 @@
     },
     {
       "name": "Trochut",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -13630,7 +13631,7 @@
     },
     {
       "name": "Trykker",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "serif",
       "fonts": {
@@ -13642,7 +13643,7 @@
     },
     {
       "name": "Tulpen One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -13654,7 +13655,7 @@
     },
     {
       "name": "Ubuntu",
-      "lastModified": "2017-06-05",
+      "last_modified": "2017-06-05",
       "version": "v10",
       "category": "sans-serif",
       "fonts": {
@@ -13694,7 +13695,7 @@
     },
     {
       "name": "Ubuntu Condensed",
-      "lastModified": "2016-06-03",
+      "last_modified": "2016-06-03",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -13706,7 +13707,7 @@
     },
     {
       "name": "Ubuntu Mono",
-      "lastModified": "2016-06-03",
+      "last_modified": "2016-06-03",
       "version": "v6",
       "category": "monospace",
       "fonts": {
@@ -13730,7 +13731,7 @@
     },
     {
       "name": "Ultra",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -13742,7 +13743,7 @@
     },
     {
       "name": "Uncial Antiqua",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -13754,7 +13755,7 @@
     },
     {
       "name": "Underdog",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -13766,7 +13767,7 @@
     },
     {
       "name": "Unica One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -13778,7 +13779,7 @@
     },
     {
       "name": "UnifrakturCook",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -13790,7 +13791,7 @@
     },
     {
       "name": "UnifrakturMaguntia",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -13802,7 +13803,7 @@
     },
     {
       "name": "Unkempt",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -13818,7 +13819,7 @@
     },
     {
       "name": "Unlock",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -13830,7 +13831,7 @@
     },
     {
       "name": "Unna",
-      "lastModified": "2017-01-26",
+      "last_modified": "2017-01-26",
       "version": "v9",
       "category": "serif",
       "fonts": {
@@ -13854,7 +13855,7 @@
     },
     {
       "name": "VT323",
-      "lastModified": "2016-12-08",
+      "last_modified": "2016-12-08",
       "version": "v8",
       "category": "monospace",
       "fonts": {
@@ -13866,7 +13867,7 @@
     },
     {
       "name": "Vampiro One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "display",
       "fonts": {
@@ -13878,7 +13879,7 @@
     },
     {
       "name": "Varela",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -13890,7 +13891,7 @@
     },
     {
       "name": "Varela Round",
-      "lastModified": "2017-01-11",
+      "last_modified": "2017-01-11",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -13902,7 +13903,7 @@
     },
     {
       "name": "Vast Shadow",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -13914,7 +13915,7 @@
     },
     {
       "name": "Vesper Libre",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -13938,7 +13939,7 @@
     },
     {
       "name": "Vibur",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -13950,7 +13951,7 @@
     },
     {
       "name": "Vidaloka",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -13962,7 +13963,7 @@
     },
     {
       "name": "Viga",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "sans-serif",
       "fonts": {
@@ -13974,7 +13975,7 @@
     },
     {
       "name": "Voces",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "display",
       "fonts": {
@@ -13986,7 +13987,7 @@
     },
     {
       "name": "Volkhov",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "serif",
       "fonts": {
@@ -14010,7 +14011,7 @@
     },
     {
       "name": "Vollkorn",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "serif",
       "fonts": {
@@ -14034,7 +14035,7 @@
     },
     {
       "name": "Voltaire",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "sans-serif",
       "fonts": {
@@ -14046,7 +14047,7 @@
     },
     {
       "name": "Waiting for the Sunrise",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "handwriting",
       "fonts": {
@@ -14058,7 +14059,7 @@
     },
     {
       "name": "Wallpoet",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v8",
       "category": "display",
       "fonts": {
@@ -14070,7 +14071,7 @@
     },
     {
       "name": "Walter Turncoat",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -14082,7 +14083,7 @@
     },
     {
       "name": "Warnes",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "display",
       "fonts": {
@@ -14094,7 +14095,7 @@
     },
     {
       "name": "Wellfleet",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "display",
       "fonts": {
@@ -14106,7 +14107,7 @@
     },
     {
       "name": "Wendy One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v4",
       "category": "sans-serif",
       "fonts": {
@@ -14118,7 +14119,7 @@
     },
     {
       "name": "Wire One",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v7",
       "category": "sans-serif",
       "fonts": {
@@ -14130,7 +14131,7 @@
     },
     {
       "name": "Work Sans",
-      "lastModified": "2016-06-07",
+      "last_modified": "2016-06-07",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -14174,7 +14175,7 @@
     },
     {
       "name": "Yanone Kaffeesatz",
-      "lastModified": "2017-01-20",
+      "last_modified": "2017-01-20",
       "version": "v8",
       "category": "sans-serif",
       "fonts": {
@@ -14198,7 +14199,7 @@
     },
     {
       "name": "Yantramanav",
-      "lastModified": "2017-05-16",
+      "last_modified": "2017-05-16",
       "version": "v2",
       "category": "sans-serif",
       "fonts": {
@@ -14230,7 +14231,7 @@
     },
     {
       "name": "Yatra One",
-      "lastModified": "2016-06-20",
+      "last_modified": "2016-06-20",
       "version": "v1",
       "category": "display",
       "fonts": {
@@ -14242,7 +14243,7 @@
     },
     {
       "name": "Yellowtail",
-      "lastModified": "2016-10-05",
+      "last_modified": "2016-10-05",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
@@ -14254,7 +14255,7 @@
     },
     {
       "name": "Yeseva One",
-      "lastModified": "2017-01-20",
+      "last_modified": "2017-01-20",
       "version": "v11",
       "category": "display",
       "fonts": {
@@ -14266,7 +14267,7 @@
     },
     {
       "name": "Yesteryear",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v5",
       "category": "handwriting",
       "fonts": {
@@ -14278,7 +14279,7 @@
     },
     {
       "name": "Yrsa",
-      "lastModified": "2017-05-24",
+      "last_modified": "2017-05-24",
       "version": "v2",
       "category": "serif",
       "fonts": {
@@ -14306,7 +14307,7 @@
     },
     {
       "name": "Zeyada",
-      "lastModified": "2016-05-31",
+      "last_modified": "2016-05-31",
       "version": "v6",
       "category": "handwriting",
       "fonts": {
